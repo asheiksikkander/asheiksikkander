@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asheiksikkander
+- 👋 Hi, I’m @asheiksikkander 
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning how to find qualified candidates in GITHUB
 - 💞️ I’m looking to collaborate with Software Engineers, Developers, Architecture
